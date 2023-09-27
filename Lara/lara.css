@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+    
+.cabecalho{
+    width: 405px;
+    height: 55px;
+    background: #D6D3D3;
+    display: flex;
+    justify-content: space-between;
+}
+.riscos{
+    width: 27px;
+    height: 22px;
+    margin: 15px;
+}
+.sino{
+    width: 27px;
+    height: 22px;
+    margin: 15px;
+}
