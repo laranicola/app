@@ -20,3 +20,20 @@
     height: 22px;
     margin: 15px;
 }
+.titulo1{
+    margin-top: 7px;
+    text-align: center;
+    
+}
+.produto{
+    width: 222px;
+    height: 159px;
+    margin: 5px;
+    margin-top: 15px;
+    border-radius: 15px;
+    display: flex;
+}
+.texto{
+    display: flex;
+    margin-top: 25px;
+}
